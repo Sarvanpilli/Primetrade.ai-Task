@@ -1,2 +1,0 @@
-# Primetrade.ai-Task
-

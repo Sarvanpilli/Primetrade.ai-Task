@@ -1,0 +1,26 @@
+2026-02-26 20:38:22,792 - INFO - Job started
+2026-02-26 20:38:22,793 - INFO - Config loaded: {'seed': 42, 'window': 5, 'version': 'v1'}
+2026-02-26 20:38:22,793 - ERROR - Job failed: Input file not found: data.csv
+2026-02-26 20:39:02,739 - INFO - Job started
+2026-02-26 20:39:02,739 - INFO - Config loaded: {'seed': 42, 'window': 5, 'version': 'v1'}
+2026-02-26 20:39:02,754 - ERROR - Job failed: Missing required column: 'close'
+2026-02-26 20:43:13,501 - INFO - Job started
+2026-02-26 20:43:13,501 - INFO - Config loaded: {'seed': 42, 'window': 5, 'version': 'v1'}
+2026-02-26 20:43:13,512 - ERROR - Job failed: Missing required column: 'close'
+2026-02-26 20:44:34,892 - INFO - Job started
+2026-02-26 20:44:34,892 - INFO - Config loaded: {'seed': 42, 'window': 5, 'version': 'v1'}
+2026-02-26 20:44:34,904 - ERROR - Job failed: Missing required column: 'close'
+2026-02-26 20:50:34,586 - INFO - Job started
+2026-02-26 20:50:34,587 - INFO - Config loaded: {'seed': 42, 'window': 5, 'version': 'v1'}
+2026-02-26 20:50:34,603 - INFO - Dataset loaded: 10000 rows
+2026-02-26 20:50:34,609 - INFO - Computed rolling mean (window=5)
+2026-02-26 20:50:34,610 - INFO - Generated binary signals
+2026-02-26 20:50:34,611 - INFO - Metrics summary: {'version': 'v1', 'rows_processed': 10000, 'metric': 'signal_rate', 'value': 0.4991, 'latency_ms': 24, 'seed': 42, 'status': 'success'}
+2026-02-26 20:50:34,612 - INFO - Job completed successfully
+2026-02-26 20:51:11,337 - INFO - Job started
+2026-02-26 20:51:11,339 - INFO - Config loaded: {'seed': 42, 'window': 5, 'version': 'v1'}
+2026-02-26 20:51:11,355 - INFO - Dataset loaded: 10000 rows
+2026-02-26 20:51:11,356 - INFO - Computed rolling mean (window=5)
+2026-02-26 20:51:11,356 - INFO - Generated binary signals
+2026-02-26 20:51:11,357 - INFO - Metrics summary: {'version': 'v1', 'rows_processed': 10000, 'metric': 'signal_rate', 'value': 0.4991, 'latency_ms': 19, 'seed': 42, 'status': 'success'}
+2026-02-26 20:51:11,358 - INFO - Job completed successfully
